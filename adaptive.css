@@ -1,0 +1,104 @@
+@media (max-width:800px) {
+    .social {
+        display: none;
+    }
+
+    .social-icon {
+        display: none;
+    }
+
+    .face-of-site {
+        justify-content: center;
+    }
+
+    .popular-book1 {
+        width: 100%!important;
+        height: 550px;
+    }
+
+    .sale-books-title {
+        font-size: 35px;
+    }
+
+    .sale-book-img {
+        width: 200px!important;
+        height: 280px!important;
+    }
+
+    .sale-book {
+        margin-top: 35px;
+    }
+    
+    .order-books-title {
+        font-size: 35px;
+    }
+
+    .order-books-img {
+        width: 400px;
+        height: 254px;
+        margin-top: 30px;
+    }
+
+    .pluses-title {
+        font-size: 35px;
+    }
+
+    .pluses-div {
+        padding: 20px;
+    }
+
+    .pluses-img {
+        width: 400px;
+        height: 492px;
+    }
+
+    .chapters-of-books-group {
+        display: block;
+    }
+
+    .free-chapters-of-books-title {
+        font-size: 25px;
+    }
+
+    .chapters-of-books {
+        width: auto;
+    }
+
+    .aspect-of-chapter-title  {
+        font-size: 18px;
+    }
+
+    .aspect-of-chapter-info {
+        font-size: 15px;
+    }
+
+    .interesting-facts-title {
+        text-decoration: none;
+    }
+
+    .interesting-facts-card {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .interesting-facts-card-group {
+        gap: 20px;
+    }
+
+    .email-reg-title {
+        text-decoration: none;
+    }
+
+    .email-reg-form {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .email-reg-input {
+        width: 350px;
+    }
+    
+    .social-end-group {
+gap: 50px;
+    }
+}
