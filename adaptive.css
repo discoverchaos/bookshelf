@@ -7,12 +7,8 @@
         display: none;
     }
 
-    .face-of-site {
-        justify-content: center;
-    }
-
     .popular-book1 {
-        width: 100%!important;
+        width: 100% !important;
         height: 550px;
     }
 
@@ -21,20 +17,20 @@
     }
 
     .sale-book-img {
-        width: 200px!important;
-        height: 280px!important;
+        width: 200px !important;
+        height: 280px !important;
     }
 
     .sale-book {
         margin-top: 35px;
     }
-    
+
     .order-books-title {
         font-size: 35px;
     }
 
     .order-books-img {
-        width: 400px;
+        width: 100%;
         height: 254px;
         margin-top: 30px;
     }
@@ -44,11 +40,11 @@
     }
 
     .pluses-div {
-        padding: 20px;
+        padding: 10px;
     }
 
     .pluses-img {
-        width: 400px;
+        width: 100%;
         height: 492px;
     }
 
@@ -58,13 +54,14 @@
 
     .free-chapters-of-books-title {
         font-size: 25px;
+        text-decoration: none;
     }
 
     .chapters-of-books {
         width: auto;
     }
 
-    .aspect-of-chapter-title  {
+    .aspect-of-chapter-title {
         font-size: 18px;
     }
 
@@ -97,8 +94,47 @@
     .email-reg-input {
         width: 350px;
     }
-    
+
     .social-end-group {
-gap: 50px;
+        gap: 50px;
     }
+
+    .navbar-toggler {
+        margin-left: 50%;
+      }
+      
+      .navbar-collapse {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        height: 100vh;
+      }
+
+      .navbar-nav {
+          margin-left: 0;
+      }
+
+      .best-books-row {
+          gap: 20px;
+      }
+
+      .sale-book {
+          display: block;
+      }
+
+      .aspects-of-chapter {
+          gap: 10px;
+      }
+
+      .aspect-of-chapter {
+          gap: 5px;
+      }
+
+      .login-box {
+          width: auto;
+      }
+
+      .contact-us-block {
+          margin-top: 20px;
+      }
 }
