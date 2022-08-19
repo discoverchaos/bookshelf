@@ -13,7 +13,7 @@
     }
 
     .sale-books-title {
-        font-size: 35px;
+        font-size: 32px;
     }
 
     .sale-book-img {
@@ -26,7 +26,7 @@
     }
 
     .order-books-title {
-        font-size: 35px;
+        font-size: 30px;
     }
 
     .order-books-img {
@@ -36,7 +36,7 @@
     }
 
     .pluses-title {
-        font-size: 35px;
+        font-size: 30px;
     }
 
     .pluses-div {
@@ -101,40 +101,66 @@
 
     .navbar-toggler {
         margin-left: 50%;
-      }
-      
-      .navbar-collapse {
+    }
+
+    .navbar-collapse {
         display: flex;
         flex-direction: column;
         justify-content: center;
         height: 100vh;
-      }
+    }
 
-      .navbar-nav {
-          margin-left: 0;
-      }
+    .navbar-nav {
+        margin-left: 0;
+    }
 
-      .best-books-row {
-          gap: 20px;
-      }
+    .best-books-row {
+        gap: 20px;
+    }
 
-      .sale-book {
-          display: block;
-      }
+    .sale-book {
+        display: block;
+    }
 
-      .aspects-of-chapter {
-          gap: 10px;
-      }
+    .aspects-of-chapter {
+        gap: 10px;
+    }
 
-      .aspect-of-chapter {
-          gap: 5px;
-      }
+    .aspect-of-chapter {
+        gap: 5px;
+    }
 
-      .login-box {
-          width: auto;
-      }
+    .login-box {
+        width: auto;
+    }
 
-      .contact-us-block {
-          margin-top: 20px;
-      }
+    .contact-us-block {
+        margin-top: 20px;
+    }
+
+    .read-text {
+        margin-top: 0;
+    }
+
+    .info-about-book-main-text {
+        font-size: 14px;
+    }
+
+    .circle-for-info-book {
+        height: 13px;
+        width: 13px;
+    }
+
+    .info-about-book {
+        gap: 8px;
+    }
+
+    .circle-for-info-book {
+        margin-top: 2px;
+    }
+
+    .info-about-book-small-text {
+        font-size: 15px;
+    }
+
 }
